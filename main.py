@@ -2,7 +2,7 @@ import discord
 import datetime
 from discord.ext import commands
 import asyncio
-TOKEN = 'MTAxMDY1MTMyNjgxMzg0MzQ3Ng.G-su-p.SH2vfkCTZoLP0aR84OSwEBpRh7JjULdx4SkpWI' #INSTERT YOUR BOT TOKEN THERE
+TOKEN = 'MTAxMDY1MTMyNjgxMzg0MzQ3Ng.Gkm6HM.dNkZG5k9NO8E3P4wBQnw91_zLtl2rg_PqHrm_s' #INSTERT YOUR BOT TOKEN THERE
 beige = discord.Color.from_rgb(256, 100, 100)
 
 
